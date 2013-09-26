@@ -1,5 +1,7 @@
 Victoria Woodhull and her sister Tennessee were pioneering feminists in the latter half of the 19th century.
+
 Using money earned as the United States' first female stockbrokers, they began publishing 'Woodhull and Claflin's Weekly', a weekly newspaper advocating women's suffrage, redistribution of wealth, and free love, among other radical ideas.
+
 During the Weekly's run, Woodhull ran for the US Presidency, but was jailed on charges of obscenity during the election.
 
 You can read more about her here: <http://en.wikipedia.org/wiki/Victoria_Woodhull>
