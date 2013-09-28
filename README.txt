@@ -11,3 +11,9 @@ There is no complete text of Woodhull and Claflin's Weekly online.  The best way
 This project is an effort to create scans of the microforms of all issues of the newspaper.  Due to the low quality of the scans, I am also attempting to manually transcribe the newspapers so the text is available in digital format.
 
 To find a microform pdf to transcribe, visit the issue tracker of this repo.
+
+If, in transcribing, you run across any words you're not sure of, please write them with *asterisks* around them to indicate uncertainty.  For instance, you might write:
+
+"The quick brown *fox* jumped over the lazy *[]*."  (Where the last word you cannot even guess at.)
+
+
