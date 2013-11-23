@@ -1,3 +1,5 @@
+About Victoria Woodhull
+
 Victoria Woodhull and her sister Tennessee were pioneering feminists in the latter half of the 19th century.
 
 Using money earned as the United States' first female stockbrokers, they began publishing 'Woodhull and Claflin's Weekly', a weekly newspaper advocating women's suffrage, redistribution of wealth, and free love, among other radical ideas.
